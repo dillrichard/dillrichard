@@ -18,5 +18,5 @@
 
 
 
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[logo-url]: https://github.com/dillrichard/dillrichard/blob/main/banner.gif
 [repo-url]: https://github.com/dillrichard
